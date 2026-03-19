@@ -18,7 +18,3 @@ Create a simple text-based Hangman game where the player guesses a hidden word o
 - `while` loop  
 - `if-else` conditions  
 - Strings & Lists  
-
----
-
-## 📂 Project Structure
